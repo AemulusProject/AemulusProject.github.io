@@ -1,0 +1,19 @@
+{
+  "name": "aemulusproject.github.io",
+  "version": "1.0.0",
+  "description": "Aemulus Project website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AemulusProject/AemulusProject.github.io.git"
+  },
+  "author": "Joe DeRose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AemulusProject/AemulusProject.github.io/issues"
+  },
+  "homepage": "https://github.com/AemulusProject/AemulusProject.github.io#readme"
+}
