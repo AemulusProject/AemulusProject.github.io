@@ -1,2 +1,2 @@
 # AemulusProject.github.io
-The AemulusProject website: [https://aemulusproject.github.io/#](https://aemulusproject.github.io/#).
+The AemulusProject website: [aemulusproject.github.io](https://aemulusproject.github.io/#).
